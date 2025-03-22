@@ -1,0 +1,10 @@
+fastapi>=0.104.0
+uvicorn>=0.23.2
+tweepy>=4.14.0
+openai>=1.0.0
+telethon>=1.30.0
+httpx>=0.24.1
+schedule>=1.2.0
+pydantic>=2.4.2
+python-dotenv>=1.0.0
+requests>=2.31.0
